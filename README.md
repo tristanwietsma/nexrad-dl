@@ -1,7 +1,7 @@
 nexrad-dl
 =========
 
-From [Wikipedia](http://en.wikipedia.org/wiki/NEXRAD
+From [Wikipedia](http://en.wikipedia.org/wiki/NEXRAD)
 
 > NEXRAD or Nexrad (Next-Generation Radar) is a network of 159 high-resolution S-band Doppler weather radars operated by the National Weather Service, an agency of the National Oceanic and Atmospheric Administration (NOAA) within the United States Department of Commerce. Its technical name is WSR-88D, which stands for Weather Surveillance Radar, 1988, Doppler. NEXRAD detects precipitation and atmospheric movement or wind. It returns data which when processed can be displayed in a mosaic map which shows patterns of precipitation and its movement. The radar system operates in two basic modes, selectable by the operator – a slow-scanning clear-air mode for analyzing air movements when there is little or no activity in the area, and a precipitation mode, with a faster scan for tracking active weather. NEXRAD has an increased emphasis on automation, including the use of algorithms and automated volume scans.
 
